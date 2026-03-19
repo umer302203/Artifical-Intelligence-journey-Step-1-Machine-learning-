@@ -25,7 +25,6 @@
 - [Learning Journey](#-learning-journey)
 - [Project Showcase](#-project-showcase)
 - [Future Roadmap](#-future-roadmap)
-- [Contributions & Collaboration](#-contributions--collaboration)
 - [Connect With Me](#-connect-with-me)
 
 ---
@@ -314,18 +313,6 @@ I'm actively seeking opportunities to collaborate on machine learning projects, 
 
 Constructive criticism is invaluable for growth. If you notice areas where my implementations could be improved, where my understanding seems incomplete, or where additional analysis would strengthen conclusions, please don't hesitate to share your thoughts. I approach feedback with gratitude and an eagerness to learn.
 
----
-
-## 📬 Connect With Me
-
-I'm always excited to connect with fellow learners, practitioners, and anyone interested in AI and machine learning. Feel free to reach out through any of the following channels:
-
-- **GitHub:** [Your GitHub Profile]
-- **LinkedIn:** [Your LinkedIn Profile]
-- **Email:** [Your Email Address]
-- **Kaggle:** [Your Kaggle Profile]
-
-Whether you have questions about specific projects, want to discuss machine learning concepts, or are interested in collaboration opportunities, I'd be delighted to hear from you.
 
 ---
 
